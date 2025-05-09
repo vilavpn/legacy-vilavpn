@@ -1,6 +1,4 @@
-# VilaVPN-V2Ray-Client-App
-最新版本
-Latest version
-最新バージョン
+#This is the final update of the legacy VilaVPN(V2Ray) client app, and it is meant to be run on older OS versions like MacOS 11 or windows 7/8
 
-https://github.com/vilavpn/VilaVPN-V2Ray-Client-App/releases
+For new OS devices please download our new app VilaX:
+https://github.com/vilavpn/vilax/releases
